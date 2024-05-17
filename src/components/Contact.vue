@@ -24,7 +24,7 @@ export default {
   props: {
     username: {
       type: String,
-      default: 'name lastname'
+      default: 'Name Lastname'
     }
   },
   data() {
